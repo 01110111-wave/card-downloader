@@ -1,0 +1,19 @@
+{
+  "name": "cardboths2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js-selfbot-v13": "^2.4.6",
+    "dotenv": "^16.0.1",
+    "pkg": "^5.8.0"
+  }
+}
