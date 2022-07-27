@@ -1,6 +1,6 @@
 # card-downloader
 ## Description
-this is card non-official illusion card downloader ,the downlaoder is writtten with DiscordJS.
+this is card non-official illusion card downloader ,the downlaoder is writtten with DiscordJS. the downloader search thourgh the illusionsoft discord card sharing channel then download the card from the message you have react with emoji.
 ## Instruction
 1. cd to project path.
 1. run npm or yarn or pnpm install.
