@@ -16,4 +16,4 @@ The download does not work when the message you react contain no card or card it
 In that case, the logs of the message which contain its link and author are recorded is side file name "list.json".
 In case of success, the logs are kept in file name "downloadlog.json".
 
-contact me discord 01110111#2033 for more information
+contact me at discord 01110111#2033 for more information
